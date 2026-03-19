@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Mario64';
+    src: url('https://cdn.jsdelivr.net/gh/Kaiju2019/sm64-font@main/Mario64.woff2') format('woff2');
+}
+
+* {
+    font-family: 'Mario64', sans-serif !important;
+}
